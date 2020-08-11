@@ -1,4 +1,6 @@
 ### Hi there 👋
+<button type="button" onclick='document.getElementById("helo").innerHTML = "Hello  is Hezzi!"'>Click Me!</button>
+
 
 - 🔭 I’m currently working on ...Web Development 
 - 🌱 I’m currently learning ...JavaScript
