@@ -9,5 +9,5 @@
 - 💬 Ask me about any things
 - 📫 How to reach me @hezzipham on every social media
 - 😄 Pronouns she/her
-- ⚡ Fun fact I move every 2 years 🤣
+- ⚡ Fun fact I have 2 bunnies rabbits pet 
 - Let me know if you want learn code with me! 
