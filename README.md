@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning TypeSript
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Front-end Project
 - 🤔 I’m looking for help with finding an intern
 - 💬 Ask me about any things
